@@ -1,4 +1,4 @@
-# Boilerplate Express JS (Functional Programming) - Bahasa Jakarta
+# Boilerplate Express JS (Functional Programming)
 
 ## Fitur
 
